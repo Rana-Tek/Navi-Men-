@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 10px auto;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+  margin-bottom: 12px;
+}
+input {
+  margin-bottom: 8px;
+}
+
+form {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 20px;
+  width: fit-content;
+  display: inline-block;
+}
+
+.buton {
+  margin-top: 5px;
+  display: inline-block;
+}
+#submit {
+  margin-right: 5px;
+  width: 70px;
+}
+#reset {
+  margin-left: 5px;
+  width: 60px;
+}
